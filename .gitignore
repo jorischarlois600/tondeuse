@@ -1,4 +1,4 @@
-out/**
+target/**
 .idea/**
 tondeuse - Raccourci.lnk
 tondeuse.iml
